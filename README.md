@@ -1,4 +1,4 @@
-<img width="960" height="412" alt="image" src="https://github.com/user-attachments/assets/94465299-7fdf-48af-a06b-be3566e8ab09" /># SGIS (Student Growth Information System)
+# SGIS (Student Growth Information System)
 
 SGIS adalah website sistem informasi siswa berbasis Laravel yang dirancang untuk membantu sekolah dalam memantau perkembangan akademik dan skill siswa SMK.
 
