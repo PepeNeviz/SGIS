@@ -64,7 +64,7 @@ Masukkan link video demo di sini
 ---
 
 # Team
-Nama Kelompok : Ngangguk-ngangguk
+Nama Kelompok : Ngangguk-ngangguk🙂‍↕🙂‍↕
 - Ilham Fattahilah Elandi
 - Rafif Akbar Maliq Firdaus
 - Ziven Larendra
