@@ -1,4 +1,4 @@
-# SGIS (Student Growth Information System)
+<img width="960" height="412" alt="image" src="https://github.com/user-attachments/assets/94465299-7fdf-48af-a06b-be3566e8ab09" /># SGIS (Student Growth Information System)
 
 SGIS adalah website sistem informasi siswa berbasis Laravel yang dirancang untuk membantu sekolah dalam memantau perkembangan akademik dan skill siswa SMK.
 
@@ -49,11 +49,40 @@ Project ini dibuat sebagai proyek Pemrograman Web kelas XI RPL.
 
 # Screenshots
 
-## Student Dashboard
-Tambahkan screenshot di sini
+## Login Page
+<img width="960" height="413" alt="image" src="https://github.com/user-attachments/assets/ab848959-879d-4056-b010-5c2bcfd294b3" />
 
-## Grades Page
-Tambahkan screenshot di sini
+
+## Student Dashboard
+<img width="626" height="824" alt="image" src="https://github.com/user-attachments/assets/5009ce29-0847-4e29-a315-8fc7ef19e6e3" />
+
+
+## Grades Page (Student)
+<img width="626" height="824" alt="image" src="https://github.com/user-attachments/assets/2a8ecb23-2965-4423-9dae-adcc36807fae" />
+
+
+## Teacher Dashboard
+<img width="960" height="412" alt="image" src="https://github.com/user-attachments/assets/10177fde-031f-4536-b13f-730faaf99dcb" />
+
+
+## List Student Page (Teacher)
+<img width="960" height="249" alt="image" src="https://github.com/user-attachments/assets/2ab84a32-e8b3-4751-a409-02de1999d7a1" />
+
+
+## Grades Page (Teacher)
+<img width="309" height="300" alt="image" src="https://github.com/user-attachments/assets/250586a0-cac5-4b52-826a-05dd0e85bcfb" />
+
+
+## BK Dashboard
+<img width="948" height="411" alt="image" src="https://github.com/user-attachments/assets/ff569a76-4963-4963-84b8-51675f0560ee" />
+
+
+## List Student Page (BK)
+<img width="1919" height="643" alt="image" src="https://github.com/user-attachments/assets/56988b23-2ff3-435f-ae75-a0e61468b758" />
+
+
+## Monitoring Student Page
+<img width="309" height="293" alt="image" src="https://github.com/user-attachments/assets/60c06884-efbc-47a0-869c-a01f4c9aa63d" />
 
 ---
 
