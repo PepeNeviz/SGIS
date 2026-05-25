@@ -1,4 +1,4 @@
-# SGIS (Student Growth Information System)
+<img width="309" height="293" alt="image" src="https://github.com/user-attachments/assets/6e35ce81-1fd2-4d25-be20-9e54596b4d4d" /># SGIS (Student Growth Information System)
 
 SGIS adalah website sistem informasi siswa berbasis Laravel yang dirancang untuk membantu sekolah dalam memantau perkembangan akademik dan skill siswa SMK.
 
@@ -88,7 +88,14 @@ Project ini dibuat sebagai proyek Pemrograman Web kelas XI RPL.
 
 # 🎥 Demo Video
 
-Masukkan link video demo di sini
+## Student 
+https://github.com/user-attachments/assets/739358bb-fc9a-42f1-842f-1f856b8008e7
+
+## Teacher
+https://github.com/user-attachments/assets/b543baf4-dfeb-4cf6-a8a6-96753e3c6756
+
+## BK
+https://github.com/user-attachments/assets/413cb3f1-35b1-4080-916a-56e5b874b6e3
 
 ---
 
