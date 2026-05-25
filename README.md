@@ -100,7 +100,7 @@ https://github.com/user-attachments/assets/413cb3f1-35b1-4080-916a-56e5b874b6e3
 ---
 
 # Team
-Nama Kelompok : Ngangguk-ngangguk🙂‍↕🙂‍↕
+Nama Kelompok : Ngangguk-ngangguk🙂‍↕🙂‍↕ (Kelompok 2)
 - Ilham Fattahilah Elandi
 - Rafif Akbar Maliq Firdaus
 - Ziven Larendra
